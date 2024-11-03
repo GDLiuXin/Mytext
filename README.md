@@ -1,5 +1,6 @@
 # Mytext
 C语言练习
+
 day1 练习 hello world
 
 day2 练习  前 n 项的和
