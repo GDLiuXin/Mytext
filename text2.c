@@ -16,6 +16,6 @@ int main()
             }
         }
     }
-    printf("%dºÍ%dµÄ×î´ó¹«Ô¼ÊýÊÇ%d.\n", a , b , ret);
+    printf("%då’Œ%dçš„æœ€å¤§å…¬çº¦æ•°æ˜¯%d.\n", a , b , ret);
     return 0;
 }
